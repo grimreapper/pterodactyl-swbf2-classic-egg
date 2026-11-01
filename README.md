@@ -1,6 +1,17 @@
-# Star Wars Battlefront II Classic (2005) BYOC egg
+# Star Wars Battlefront II Classic (2005) Pterodactyl/Pelican egg
 
-Importable PTDL_v2 egg for the original LucasArts Windows v1.1 dedicated server under Wine. This repository contains no proprietary game files. It is intended for operator-supplied content under documented license constraints; it is not legal advice. This unofficial project is not affiliated with or endorsed by LucasArts or its successors.
+**Wine · PTDL_v2 · Bring your own content · Source-only**
+
+[Latest release](https://github.com/grimreapper/pterodactyl-swbf2-classic-egg/releases/latest) ·
+[Client setup](CLIENT-SETUP.md) · [Supported maps](SUPPORTED-MAPS.md) ·
+[Validation](VALIDATION.md) · [MIT license](LICENSE)
+
+## Overview
+
+An importable BYOC egg for the original LucasArts Windows v1.1 dedicated server
+under Wine. This repository contains no proprietary game files. It is intended
+for operator-supplied content under documented license constraints; not legal advice.
+This unofficial project is not affiliated with or endorsed by LucasArts or its successors.
 
 ## Accepted operator content
 
