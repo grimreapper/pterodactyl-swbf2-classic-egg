@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "scope": "BYOC egg documentation and pinned open-source/runtime dependencies; no proprietary payload sources",
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://github.com/hifi/iss_extract/tree/01232146c9284a86958817817849f320e77f5fb7",
+      "title": "Pinned open-source InstallShield extractor source",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": 2,
+      "url": "https://github.com/ptero-eggs/yolks",
+      "title": "Ptero-Eggs public runtime images",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": 3,
+      "url": "https://github.com/pelican-eggs/yolks",
+      "title": "Pelican Eggs public runtime images",
+      "accessed": "2026-10-31"
+    }
+  ]
+}

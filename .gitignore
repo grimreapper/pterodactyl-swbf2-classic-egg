@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+*.exe
+*.dll
+*.cab
+*.msi
+*.zip
+*.rar
+*.7z
+*.iso
+.fixtures/
+.swbf2-work-*/
+.swbf2-release-*/
+swbf2-original-server/
+swbf2-runtime/
